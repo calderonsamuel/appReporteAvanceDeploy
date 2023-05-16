@@ -142,8 +142,8 @@
       "Package": "appReporteAvance",
       "Version": "0.4.3",
       "Source": "GitHub",
-      "Remotes": "JohnCoene/firebase",
       "RemoteType": "github",
+      "Remotes": "JohnCoene/firebase",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "appReporteAvance",
       "RemoteUsername": "calderonsamuel",
@@ -218,7 +218,7 @@
       "RemoteType": "standard",
       "RemotePkgRef": "base64enc",
       "RemoteRef": "base64enc",
-      "RemoteRepos": "https://cran.rstudio.com",
+      "RemoteRepos": "https://cran.rstudio.com/",
       "RemotePkgPlatform": "x86_64-w64-mingw32",
       "RemoteSha": "0.1-3",
       "Requirements": [
@@ -942,7 +942,7 @@
       "RemoteType": "standard",
       "RemotePkgRef": "jquerylib",
       "RemoteRef": "jquerylib",
-      "RemoteRepos": "https://cran.rstudio.com",
+      "RemoteRepos": "https://cran.rstudio.com/",
       "RemotePkgPlatform": "i386+x86_64-w64-mingw32",
       "RemoteSha": "0.1.4",
       "Requirements": [
@@ -1077,7 +1077,7 @@
       "RemoteType": "standard",
       "RemotePkgRef": "magrittr",
       "RemoteRef": "magrittr",
-      "RemoteRepos": "https://cran.rstudio.com",
+      "RemoteRepos": "https://cran.rstudio.com/",
       "RemotePkgPlatform": "x86_64-w64-mingw32",
       "RemoteSha": "2.0.3",
       "Requirements": [
@@ -1093,7 +1093,7 @@
       "RemoteType": "standard",
       "RemotePkgRef": "memoise",
       "RemoteRef": "memoise",
-      "RemoteRepos": "https://cran.rstudio.com",
+      "RemoteRepos": "https://cran.rstudio.com/",
       "RemotePkgPlatform": "i386+x86_64-w64-mingw32",
       "RemoteSha": "2.0.1",
       "Requirements": [
@@ -1352,12 +1352,6 @@
       "Version": "0.17.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "renv",
-      "RemoteRef": "renv",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "i386+x86_64-w64-mingw32",
-      "RemoteSha": "0.17.0",
       "Requirements": [
         "utils"
       ],
