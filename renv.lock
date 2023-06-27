@@ -164,16 +164,16 @@
     },
     "appReporteAvance": {
       "Package": "appReporteAvance",
-      "Version": "0.4.4",
+      "Version": "0.4.5",
       "Source": "GitHub",
       "Remotes": "JohnCoene/firebase",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "appReporteAvance",
       "RemoteUsername": "calderonsamuel",
-      "RemotePkgRef": "calderonsamuel/appReporteAvance@v0.4.4",
-      "RemoteRef": "v0.4.4",
-      "RemoteSha": "8c9d16f6f40398735083cf2e3d79a47701be4146",
+      "RemotePkgRef": "calderonsamuel/appReporteAvance@v0.4.5",
+      "RemoteRef": "v0.4.5",
+      "RemoteSha": "b88f4b42ef0e305f628e815eae401d454e19de0d",
       "Requirements": [
         "DBI",
         "R6",
@@ -208,7 +208,7 @@
         "tidyr",
         "writexl"
       ],
-      "Hash": "e03009c825c84abb726406845065675c"
+      "Hash": "7ccf1bbde3e8420027023ea944ce7742"
     },
     "askpass": {
       "Package": "askpass",
