@@ -164,16 +164,16 @@
     },
     "appReporteAvance": {
       "Package": "appReporteAvance",
-      "Version": "0.4.5",
+      "Version": "0.4.6",
       "Source": "GitHub",
       "Remotes": "JohnCoene/firebase",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "appReporteAvance",
       "RemoteUsername": "calderonsamuel",
-      "RemotePkgRef": "calderonsamuel/appReporteAvance@v0.4.5",
-      "RemoteRef": "v0.4.5",
-      "RemoteSha": "b88f4b42ef0e305f628e815eae401d454e19de0d",
+      "RemotePkgRef": "calderonsamuel/appReporteAvance@v0.4.6",
+      "RemoteRef": "v0.4.6",
+      "RemoteSha": "9a62df4b902a15fa3d9be164fcd11b5e57ec6b92",
       "Requirements": [
         "DBI",
         "R6",
@@ -208,7 +208,7 @@
         "tidyr",
         "writexl"
       ],
-      "Hash": "7ccf1bbde3e8420027023ea944ce7742"
+      "Hash": "169d8d09ca4f3e66a569fae0ee433942"
     },
     "askpass": {
       "Package": "askpass",
@@ -675,7 +675,7 @@
     },
     "firebase": {
       "Package": "firebase",
-      "Version": "1.0.1.9000",
+      "Version": "1.0.2",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
@@ -683,7 +683,7 @@
       "RemoteUsername": "JohnCoene",
       "RemotePkgRef": "JohnCoene/firebase",
       "RemoteRef": "HEAD",
-      "RemoteSha": "e9daf54a6afd8e662fb878316ea5dcab11230efc",
+      "RemoteSha": "7d1b6aa2a426403d38a27f5b596486cc3a7dcf25",
       "Requirements": [
         "base64enc",
         "cli",
@@ -693,7 +693,7 @@
         "openssl",
         "shiny"
       ],
-      "Hash": "7f8edccba73587a2ba48005ced85a9f6"
+      "Hash": "1fd3da2284ddd302bd5ab4b21f3f993f"
     },
     "fontawesome": {
       "Package": "fontawesome",
